@@ -15,7 +15,7 @@
 * [Shift]+[Ctrl]+V : 마크다운 미리보기기
 
 `코드 블록`
-```ruby
+```python
 # 비 Pythonic
 numbers = [1, 2, 3, 4, 5]
 squared = []
