@@ -14,8 +14,17 @@
   * 하위 항목 
 * [Shift]+[Ctrl]+V : 마크다운 미리보기기
 
-'코드 블록'
+`코드 블록`
+```
+# 비 Pythonic
+numbers = [1, 2, 3, 4, 5]
+squared = []
+for n in numbers:
+    squared.append(n ** 2)
 
+# Pythonic
+squared = [n ** 2 for n in numbers]
+```
 
 ### 링크걸기
 
