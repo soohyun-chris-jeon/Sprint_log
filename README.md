@@ -1,5 +1,5 @@
 # Python Practice Log
-## **파이썬**의 실습 위주로 매일 공부한 내용을 간단하게 기록하는 레포
+## 파이썬의 실습 위주로 매일 공부한 내용을 간단하게 기록하는 레포
 
 
 ![코드잇 스프린트](https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F4qgsr%2FbtsFEtondnt%2FXoFKqUvKEaFyQubZZyLIPk%2Fimg.png)
