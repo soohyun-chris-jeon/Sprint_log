@@ -15,7 +15,7 @@
 
 
 ### 링크걸기
-![고양이](https://placekitten.com/200/300](https://blog.kakaocdn.net/dn/4qgsr/btsFEtondnt/XoFKqUvKEaFyQubZZyLIPk/img.png))
+![고양이]([https://placekitten.com/200/300](https://blog.kakaocdn.net/dn/4qgsr/btsFEtondnt/XoFKqUvKEaFyQubZZyLIPk/img.png])
 
 ## #구분선
 ---
