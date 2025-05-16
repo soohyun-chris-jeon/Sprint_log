@@ -15,12 +15,11 @@
 
 
 ### 링크걸기
-![고양이]([[https://placekitten.com/200/300](https://blog.kakaocdn.net/dn/4qgsr/btsFEtondnt/XoFKqUvKEaFyQubZZyLIPk/img.png]](https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F4qgsr%2FbtsFEtondnt%2FXoFKqUvKEaFyQubZZyLIPk%2Fimg.png))
 
 ## #구분선
 ---
 
 수정사항이 추가되었습니다
-
-
+![이미지 설명](경로)
+![코드잇 스프린트](https://img1.daumcdn.net/thumb/R750x0/scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F4qgsr%2FbtsFEtondnt%2FXoFKqUvKEaFyQubZZyLIPk%2Fimg.png)
 ### 첫 커밋 & 푸시 성공
