@@ -30,4 +30,4 @@
 
 > _**"A key goal is learning to "read" a matrix"**_
 
-> Gilbert Strang -
+>> Gilbert Strang -
