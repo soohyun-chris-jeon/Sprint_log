@@ -29,4 +29,5 @@
 라고 공대생의 관점에서 결론을 내려보고~ 마지막은 Strang 교수님 책의 한한 구절으로 마무리하겠다.
 
 > _**"A key goal is learning to "read" a matrix"**_
+
 > Gilbert Strang -
