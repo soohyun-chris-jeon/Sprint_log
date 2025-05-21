@@ -116,22 +116,22 @@ sns.heatmap(df.corr(), annot=true)
 
 #### Pandas DataFrame 주요 메서드 및 변수
 개인적으로 pandas는 굳이 사용할 일이 없었는데, 다루는 데이터가 DataFrame이 아니다보니 쓸일이 아예 없었다. 그러나 데이터 사이언스 관점에서는 동일한 과정이 진행되기 때문에 한번 공부해보는 것이 좋다고 판단되어 정리를 해보았음.
-`df.describe()`
-`df.info()`
-`df.shape`
-`df.dtype()`
-`df.rename()`: column명을 바꿀때 사용하곤 한다
-`df.drop(columns='')`: 해당 데이터 삭제. 기본적으로 row 삭제. 그러나  column도도 삭제 가능
-`df.isna().any(axis=1)`: 결측값이 있는 row를 bool인덱싱할때 유용하다.
-`df.dropna()`: 결측치 있는 데이터 삭제. 그러나 데이터를 삭제한다는 것은 신중하게 해야하므로 확신이 있을때 사용.
-`df.fillna()`: 결측치가 있는 데이터를 보완하기 좋음!
-`df.duplicated()`: 중복된 데이터 찾기. df.duplicated().sum()
-df.duplicated(subset='컬럼명', keep='last')
-`df.drop_duplicates()`: 중복값 삭제
-`df.unique()`:유일한 값을 뽑아낼때 유용
-`df.astype()`: data type 설정
-`df.value_counts(dropna=False, normalize=True)`
-`df.str`: 문자열 처리
+`df.describe()`  
+`df.info()`  
+`df.shape`  
+`df.dtype()`  
+`df.rename()`: column명을 바꿀때 사용하곤 한다  
+`df.drop(columns='')`: 해당 데이터 삭제. 기본적으로 row 삭제. 그러나  column도도 삭제 가능  
+`df.isna().any(axis=1)`: 결측값이 있는 row를 bool인덱싱할때 유용하다.  
+`df.dropna()`: 결측치 있는 데이터 삭제. 그러나 데이터를 삭제한다는 것은 신중하게 해야하므로 확신이 있을때 사용.  
+`df.fillna()`: 결측치가 있는 데이터를 보완하기 좋음!  
+`df.duplicated()`: 중복된 데이터 찾기. df.duplicated().sum()  
+df.duplicated(subset='컬럼명', keep='last')  
+`df.drop_duplicates()`: 중복값 삭제  
+`df.unique()`:유일한 값을 뽑아낼때 유용  
+`df.astype()`: data type 설정  
+`df.value_counts(dropna=False, normalize=True)`  
+`df.str`: 문자열 처리  
 
 - 다만 DataFrame과 Series는 각각 적용될 수 있는 함수가 다르다. 즉, 그때 그때 잘 찾아봐라...(중요하진 않음)
 
